@@ -1,0 +1,13 @@
+# view AndroidManifest.xml #generated:16
+-keep class br.usp.ime.retrobreaker.GameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class br.usp.ime.retrobreaker.MainActivity { <init>(...); }
+
+# view res/layout/activity_game.xml #generated:8
+# view small-v4/res/layout-small-v4/activity_game.xml #generated:8
+-keep class br.usp.ime.retrobreaker.game.TouchSurfaceView { <init>(...); }
+
+# onClick res/layout/activity_main.xml #generated:44
+-keepclassmembers class * { *** onCheckBoxClicked(...); }
+

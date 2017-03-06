@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/build/intermediates/res/merged/debug/raw/victory_fanfare.ogg",
+        "source": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/raw/victory_fanfare.ogg"
+    },
+    {
+        "merged": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/build/intermediates/res/merged/debug/raw/wall_hit.ogg",
+        "source": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/raw/wall_hit.ogg"
+    },
+    {
+        "merged": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/build/intermediates/res/merged/debug/raw/lost_life.ogg",
+        "source": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/raw/lost_life.ogg"
+    },
+    {
+        "merged": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/build/intermediates/res/merged/debug/raw/paddle_hit.ogg",
+        "source": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/raw/paddle_hit.ogg"
+    },
+    {
+        "merged": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/build/intermediates/res/merged/debug/raw/explosive_brick.ogg",
+        "source": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/raw/explosive_brick.ogg"
+    },
+    {
+        "merged": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/build/intermediates/res/merged/debug/raw/brick_hit.ogg",
+        "source": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/raw/brick_hit.ogg"
+    }
+]

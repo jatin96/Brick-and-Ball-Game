@@ -1,0 +1,77 @@
+br.usp.ime.retrobreaker.GameActivity
+br.usp.ime.retrobreaker.GameActivity: GameActivity()
+br.usp.ime.retrobreaker.MainActivity
+br.usp.ime.retrobreaker.MainActivity: MainActivity()
+br.usp.ime.retrobreaker.MainActivity: void onCheckBoxClicked(android.view.View)
+br.usp.ime.retrobreaker.R$array: int levels
+br.usp.ime.retrobreaker.R$dimen: int activity_horizontal_margin
+br.usp.ime.retrobreaker.R$dimen: int activity_vertical_margin
+br.usp.ime.retrobreaker.R$drawable: int explosive_brick
+br.usp.ime.retrobreaker.R$drawable: int hard_brick
+br.usp.ime.retrobreaker.R$drawable: int ic_launcher
+br.usp.ime.retrobreaker.R$drawable: int moveable_brick
+br.usp.ime.retrobreaker.R$id: int container
+br.usp.ime.retrobreaker.R$id: int highScore
+br.usp.ime.retrobreaker.R$id: int levelSpinner
+br.usp.ime.retrobreaker.R$id: int linearLayout1
+br.usp.ime.retrobreaker.R$id: int linearLayout2
+br.usp.ime.retrobreaker.R$id: int lives
+br.usp.ime.retrobreaker.R$id: int mainHighScore
+br.usp.ime.retrobreaker.R$id: int newGameButton
+br.usp.ime.retrobreaker.R$id: int opengl
+br.usp.ime.retrobreaker.R$id: int ready
+br.usp.ime.retrobreaker.R$id: int resetScoreButton
+br.usp.ime.retrobreaker.R$id: int score
+br.usp.ime.retrobreaker.R$id: int scoreMultiplier
+br.usp.ime.retrobreaker.R$id: int soundEffectsCheckBox
+br.usp.ime.retrobreaker.R$id: int textView1
+br.usp.ime.retrobreaker.R$layout: int activity_game
+br.usp.ime.retrobreaker.R$layout: int activity_main
+br.usp.ime.retrobreaker.R$raw: int brick_hit
+br.usp.ime.retrobreaker.R$raw: int explosive_brick
+br.usp.ime.retrobreaker.R$raw: int lost_life
+br.usp.ime.retrobreaker.R$raw: int paddle_hit
+br.usp.ime.retrobreaker.R$raw: int victory_fanfare
+br.usp.ime.retrobreaker.R$raw: int wall_hit
+br.usp.ime.retrobreaker.R$string: int app_name
+br.usp.ime.retrobreaker.R$string: int difficult
+br.usp.ime.retrobreaker.R$string: int do_you_want_to_get_the_maximum_score_for_free
+br.usp.ime.retrobreaker.R$string: int do_you_want_to_restart_the_game
+br.usp.ime.retrobreaker.R$string: int enable_sound_effects
+br.usp.ime.retrobreaker.R$string: int explosive_brick_explanation
+br.usp.ime.retrobreaker.R$string: int final_score
+br.usp.ime.retrobreaker.R$string: int game_over
+br.usp.ime.retrobreaker.R$string: int hard_brick_explanation
+br.usp.ime.retrobreaker.R$string: int high_score
+br.usp.ime.retrobreaker.R$string: int lives
+br.usp.ime.retrobreaker.R$string: int moveable_brick_explanation
+br.usp.ime.retrobreaker.R$string: int multiplier
+br.usp.ime.retrobreaker.R$string: int new_game
+br.usp.ime.retrobreaker.R$string: int new_high_score
+br.usp.ime.retrobreaker.R$string: int no
+br.usp.ime.retrobreaker.R$string: int psss_just_between_you_and_me
+br.usp.ime.retrobreaker.R$string: int ready
+br.usp.ime.retrobreaker.R$string: int reset_high_score
+br.usp.ime.retrobreaker.R$string: int score
+br.usp.ime.retrobreaker.R$string: int special_bricks
+br.usp.ime.retrobreaker.R$string: int title_activity_main
+br.usp.ime.retrobreaker.R$string: int yes
+br.usp.ime.retrobreaker.R$style: int AppBaseTheme
+br.usp.ime.retrobreaker.R$style: int AppTheme
+br.usp.ime.retrobreaker.R$style: int GameTheme
+br.usp.ime.retrobreaker.forms.Brick$Type: br.usp.ime.retrobreaker.forms.Brick$Type[] values()
+br.usp.ime.retrobreaker.forms.Brick$Type: br.usp.ime.retrobreaker.forms.Brick$Type valueOf(java.lang.String)
+br.usp.ime.retrobreaker.game.Constants$BallDirection: br.usp.ime.retrobreaker.game.Constants$BallDirection[] values()
+br.usp.ime.retrobreaker.game.Constants$BallDirection: br.usp.ime.retrobreaker.game.Constants$BallDirection valueOf(java.lang.String)
+br.usp.ime.retrobreaker.game.Constants$Collision: br.usp.ime.retrobreaker.game.Constants$Collision[] values()
+br.usp.ime.retrobreaker.game.Constants$Collision: br.usp.ime.retrobreaker.game.Constants$Collision valueOf(java.lang.String)
+br.usp.ime.retrobreaker.game.Constants$Hit: br.usp.ime.retrobreaker.game.Constants$Hit[] values()
+br.usp.ime.retrobreaker.game.Constants$Hit: br.usp.ime.retrobreaker.game.Constants$Hit valueOf(java.lang.String)
+br.usp.ime.retrobreaker.game.Constants$Lives: br.usp.ime.retrobreaker.game.Constants$Lives[] values()
+br.usp.ime.retrobreaker.game.Constants$Lives: br.usp.ime.retrobreaker.game.Constants$Lives valueOf(java.lang.String)
+br.usp.ime.retrobreaker.game.Constants$Score: br.usp.ime.retrobreaker.game.Constants$Score[] values()
+br.usp.ime.retrobreaker.game.Constants$Score: br.usp.ime.retrobreaker.game.Constants$Score valueOf(java.lang.String)
+br.usp.ime.retrobreaker.game.Constants$ScoreMultiplier: br.usp.ime.retrobreaker.game.Constants$ScoreMultiplier[] values()
+br.usp.ime.retrobreaker.game.Constants$ScoreMultiplier: br.usp.ime.retrobreaker.game.Constants$ScoreMultiplier valueOf(java.lang.String)
+br.usp.ime.retrobreaker.game.TouchSurfaceView
+br.usp.ime.retrobreaker.game.TouchSurfaceView: TouchSurfaceView(android.content.Context,android.util.AttributeSet)

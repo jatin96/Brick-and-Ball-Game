@@ -1,0 +1,70 @@
+br.usp.ime.retrobreaker.BuildConfig
+br.usp.ime.retrobreaker.R
+br.usp.ime.retrobreaker.R$array
+br.usp.ime.retrobreaker.R$attr
+br.usp.ime.retrobreaker.R$dimen
+br.usp.ime.retrobreaker.R$drawable
+br.usp.ime.retrobreaker.R$id
+br.usp.ime.retrobreaker.R$layout
+br.usp.ime.retrobreaker.R$raw
+br.usp.ime.retrobreaker.R$string
+br.usp.ime.retrobreaker.R$style
+br.usp.ime.retrobreaker.effects.Explosion:
+    public static final int STATE_ALIVE
+    public static final int STATE_DEAD
+br.usp.ime.retrobreaker.forms.Ball:
+    private static final float SCALE
+    65:65:public float getAngle()
+br.usp.ime.retrobreaker.forms.Brick:
+    public static final int GRAY_LIVES
+    public static final int NORMAL_LIVES
+    public static final int BRICK_EXPLOSION_SIZE
+    private static final float SCALE
+br.usp.ime.retrobreaker.forms.Paddle:
+    private static final float SCALE
+br.usp.ime.retrobreaker.forms.Particle:
+    private static final float SCALE
+    public static final int STATE_ALIVE
+    public static final int STATE_DEAD
+    public static final int DEFAULT_LIFETIME
+    public static final int MAX_DIMENSION
+br.usp.ime.retrobreaker.forms.Quad:
+    private static final int FLOAT_SIZE_BYTES
+    57:57:public float getScale()
+br.usp.ime.retrobreaker.game.Constants:
+    public static final int RIGHT_ANGLE
+    public static final float ANGLE_OF_REFLECTION_BOUND
+    public static final long MS_PER_SECONDS
+    public static final long NANOS_PER_SECONDS
+    3:3:public Constants()
+br.usp.ime.retrobreaker.game.Constants$Color:
+    static final float RGB_UPPER_BOUND
+    72:72:public Constants$Color()
+br.usp.ime.retrobreaker.game.Constants$Config:
+    public static final int MS_PER_UPDATE
+    public static final int FPS_LIMIT
+    public static final int FRAME_SKIP
+    public static final int NUMBER_OF_LINES_OF_BRICKS
+    public static final int NUMBER_OF_COLUMNS_OF_BRICKS
+    public static final int MOBILE_BRICK_SKIP_FRAMES
+    public static final float SCREEN_RATIO
+    public static final float WALL
+    public static final float BALL_INITIAL_PREVIOUS_POS_X
+    public static final float BALL_INITIAL_PREVIOUS_POS_Y
+    public static final float BALL_INITIAL_POS_X
+    public static final float BALL_INITIAL_POS_Y
+    public static final float PADDLE_INITIAL_POS_X
+    public static final float PADDLE_INITIAL_POS_Y
+    public static final float BRICKS_INITIAL_POS_X
+    public static final float BRICKS_INITIAL_POS_Y
+    public static final float SPACE_BETWEEN_BRICKS
+    35:35:public Constants$Config()
+br.usp.ime.retrobreaker.game.Constants$Difficult:
+    58:58:public Constants$Difficult()
+br.usp.ime.retrobreaker.game.Game:
+    private static final int SCREEN_INITIAL_X
+    private static final int SCREEN_INITIAL_Y
+br.usp.ime.retrobreaker.game.Game$State:
+    489:489:public Game$State()
+br.usp.ime.retrobreaker.game.TouchSurfaceView$Renderer:
+    140:152:private long limitFps(int)

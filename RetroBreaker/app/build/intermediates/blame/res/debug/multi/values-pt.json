@@ -1,0 +1,465 @@
+[
+    {
+        "outputFile": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/build/intermediates/res/merged/debug/values-pt/values-pt.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/levels.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 50,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 52,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 52,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 112,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1389,
+                        "endColumn": 112,
+                        "endOffset": 1497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 87,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 87,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 71,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 71,
+                        "endOffset": 1569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 105,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endColumn": 105,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 59,
+                    "endOffset": 784
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endColumn": 59,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 789,
+                    "endColumn": 49,
+                    "endOffset": 834
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 566,
+                        "endColumn": 49,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 839,
+                    "endColumn": 96,
+                    "endOffset": 931
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1101,
+                        "endColumn": 96,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 936,
+                    "endColumn": 59,
+                    "endOffset": 991
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 59,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 996,
+                    "endColumn": 43,
+                    "endOffset": 1035
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 43,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1040,
+                    "endColumn": 108,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 108,
+                        "endOffset": 1096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 56,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 56,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 46,
+                    "endOffset": 1248
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 46,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1253,
+                    "endColumn": 68,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 68,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 34,
+                    "endOffset": 1352
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 531,
+                        "endColumn": 34,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1357,
+                    "endColumn": 81,
+                    "endOffset": 1434
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1301,
+                        "endColumn": 87,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1439,
+                    "endColumn": 41,
+                    "endOffset": 1476
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1259,
+                        "endColumn": 41,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1481,
+                    "endColumn": 69,
+                    "endOffset": 1546
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 69,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1551,
+                    "endColumn": 47,
+                    "endOffset": 1594
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 346,
+                        "endColumn": 47,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1599,
+                    "endColumn": 60,
+                    "endOffset": 1655
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 60,
+                        "endOffset": 1254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1660,
+                    "endColumn": 61,
+                    "endOffset": 1717
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 61,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1722,
+                    "endColumn": 35,
+                    "endOffset": 1753
+                },
+                "from": {
+                    "file": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/values-pt/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 35,
+                        "endOffset": 526
+                    }
+                }
+            }
+        ]
+    }
+]

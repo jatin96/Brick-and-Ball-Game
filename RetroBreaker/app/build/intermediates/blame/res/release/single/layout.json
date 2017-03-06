@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/build/intermediates/res/merged/release/layout/activity_game.xml",
+        "source": "/home/jatin/AndroidStudioProjects/RetroBreaker/app/src/main/res/layout/activity_game.xml"
+    }
+]
